@@ -22,3 +22,6 @@ $ repo sync --no-repo-verify -c --force-sync --no-clone-bundle --no-tags --optim
 $ . build/envsetup.sh ;
 lunch omni_pd1728x-eng ;
 mka recoveryimage
+
+# Thanks to neel021000
+# GITHUBAC-https://github.com/neel021000
