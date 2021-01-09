@@ -24,4 +24,4 @@ lunch omni_pd1728x-eng ;
 mka recoveryimage
 
 # Thanks to neel021000
-# GITHUBAC-https://github.com/neel021000
+# github=https://github.com/neel021000
